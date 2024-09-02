@@ -69,7 +69,7 @@ body {
   background: linear-gradient(to right, #041308, #0b3317);
 }
 
-@media screen and (max-width: 640px) and (min-width:360px) {
+@media screen and (max-width: 640px)  {
   .container {
     /* background-color: red; */
     flex-direction: column;
